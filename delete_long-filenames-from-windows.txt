@@ -1,0 +1,7 @@
+
+
+mkdir c:\emptyfolder
+
+robocopy c:\emptyfolder "C:\Program Files\ByteFence" /purge
+
+rmdir d:\emptyfolder 
